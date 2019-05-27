@@ -1,0 +1,28 @@
+body {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.contents {
+    width: 90%;
+    margin: 0 auto;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 160%;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 130%;
+    font-weight: 400;
+}
+
+a {
+    color: #005FFF;
+    text-decoration: none;
+}
+
+li {
+    margin-bottom: .5em;
+}

@@ -26,3 +26,7 @@ a {
 li {
     margin-bottom: .5em;
 }
+
+b {
+    font-weight: 400;
+}
